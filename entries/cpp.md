@@ -1,0 +1,1 @@
+c++ is an object oriented progamming language.it is an extension of c language with object oriented features such as classes,objects,inheritance,polymorphism etc...................,,,,,,,,,,,,,,,,,,,,,,,,,,,,
